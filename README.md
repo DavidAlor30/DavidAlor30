@@ -24,7 +24,8 @@ Analizando todo :sweat_smile: y disfrutando de una transición laboral al Data A
 
 * :speaking_head: Presentaciones fáciles de entender y útiles para la acción.
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidalor/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-David%20Alor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidalor/)
+
 
 ---
 
