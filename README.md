@@ -59,7 +59,7 @@
 
 ## 📫 Contacto
 
-📩 **Email:** david.alor30@gmail.com  
+📩 **Email:** davidaloren@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/davidalor/
 
 ---
